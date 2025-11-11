@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "pnpm --filter @ep-toy/play dev",
     "docs:dev": "pnpm --filter @ep-toy/docs dev",
-    "doc:build": "pnpm --filter @ep-toy/docs build",
+    "docs:build": "pnpm --filter @ep-toy/docs build",
     "test": "echo 'todo'"
   },
   "keywords": [],
